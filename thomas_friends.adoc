@@ -22,28 +22,35 @@
 [cols="1, 1, 2, 1, 4", format="csv", options="header"]
 |===
 Name, Number, Type, Country, First Apear
-Belle, NWR 6120, steam-tank-coal, , FA: Day of the Diesels
-Daisy, NWR D1, diesel-mechanical-railcar, , FA: Branch Line Engines / Daisy
-Diesel, , diesel-electric-shunter, , FA: Duck and the Diesel Engine / Percy Takes the Plunge
-Emily, NWR 12, steam-coal, England, FA: Emily's New Coaches
-Flynn, NWR, fire-petrol, US, FA: Day of the Diesels
-Gordon, NWR 4, steam-tender-coal, , FA: The Three Railway Engines / Thomas and Gordon
-Harold, , aircraft-helicopter-petrol, , FA: Percy the Small Engine / Percy and Harold
-James, NWR 5, steam-tender-coal, , FA: Thomas the Tank Engine / Thomas and Gordon
-Nia, EAR/NWR 18, steam-tank-coal, Kenya / England, FA: Big World! Big Adventures!
-Percy, NWR 6, steam-saddle tank-coal, , FA: Troublesome Engines / Trouble in the Shed
-Philip, NWR 68, diesel-electric-shunter, US, FA: The Little Engine Who Raced Ahead
-Rebecca, NWR 22, steam-coal, England, FA: Confusion Without Delay
-Rosie, NWR 37, steam-tank-coal, England / US, FA: Thomas and the Birthday Mail
-Samson, 15, steam-shddle tank-coal, England / Scotland, FA: Marion and the Dinosaur
-Salty, NWR 2991, diesel-electric-shunter, , FA: Salty's Secret
-Sidney, , diesel-electric-shunter, , FA: Day of the Diesels
-Stephen, L&MR 1, steam-tender-coal, , FA: King of the Railway
+Belle, NWR 6120, steam-tank-coal, , Day of the Diesels
+Ben (twin), SCC 2, steam-saddle tank-coal, England, Main Line Engines / Percy Takes the Plunge
+Bill (twin), SCC 1, steam-saddle tank-coal, England, Main Line Engines / Percy Takes the Plunge
+Daisy, NWR D1, diesel-mechanical-railcar, , Branch Line Engines / Daisy
+Donald (twin), NWR 9 / BR 57646 / LMS 17646, steam-tender-coal, Scotland, The Twin Engines / Break Van
+Douglas (twin), NWR 10 / BR 57647 / LMS 17647, steam-tender-coal, Scotland, The Twin Engines / Break Van
+Diesel, , diesel-electric-shunter, , Duck and the Diesel Engine / Percy Takes the Plunge
+Duck, NWR 8 / GWR/BR 5741, steam-pannier tank-coal, , Percy the Small Engine / Duck Takes Charge
+Emily, NWR 12, steam-coal, England, Emily's New Coaches
+Flynn, NWR, fire-petrol, US, Day of the Diesels
+Gordon, NWR 4, steam-tender-coal, , The Three Railway Engines / Thomas and Gordon
+Harold, , aircraft-helicopter-petrol, , Percy the Small Engine / Percy and Harold
+Hiro, 51, steam-tender-coal, Japan, Specials-2009-Hero of the Rails
+James, NWR 5, steam-tender-coal, , Thomas the Tank Engine / Thomas and Gordon
+Kevin, , road-mobile crane-petrol, , Specials-2009-Hero of the Rails
+Nia, EAR/NWR 18, steam-tank-coal, Kenya / England, Big World! Big Adventures!
+Percy, NWR 6, steam-saddle tank-coal, , Troublesome Engines / Trouble in the Shed
+Philip, NWR 68, diesel-electric-shunter, US, The Little Engine Who Raced Ahead
+Rebecca, NWR 22, steam-coal, England, Confusion Without Delay
+Rosie, NWR 37, steam-tank-coal, England / US, Thomas and the Birthday Mail
+Samson, 15, steam-shddle tank-coal, England / Scotland, Marion and the Dinosaur
+Salty, NWR 2991, diesel-electric-shunter, , Salty's Secret
+Sidney, , diesel-electric-shunter, , Day of the Diesels
+Stephen, L&MR 1, steam-tender-coal, , King of the Railway
 Thomas, NWR 1 / LB&SCR 70, steam-tank-coal, England,
-Toby, NWR 7 / BR 68221 / LNER 8221 / LNER 7127 / GER 127, steam-tram-coal, , FA: Toby the Tram Engine / Toby and the Stout Gentleman
-Victor, 1173, steam-saddle/pannier tank-oil, Cuba / US, FA: Hero of the Rails
-Yong Bao, , steam-tender-coal, China, FA: The Great Race
-Sir Topham Hatt, , Fat Controller, , FA: The Three Railway Engines / Thomas and Gordon
+Toby, NWR 7 / BR 68221 / LNER 8221 / LNER 7127 / GER 127, steam-tram-coal, , Toby the Tram Engine / Toby and the Stout Gentleman
+Victor, 1173, steam-saddle/pannier tank-oil, Cuba / US, Hero of the Rails
+Yong Bao, , steam-tender-coal, China, The Great Race
+Sir Topham Hatt, , Fat Controller, , The Three Railway Engines / Thomas and Gordon
 |===
 
 * BR = British Railways
@@ -52,6 +59,7 @@ Sir Topham Hatt, , Fat Controller, , FA: The Three Railway Engines / Thomas and 
 * L&MR = Liverpool and Manchester Railway
 * LNER = London and North Eastern Railway
 * NWR = North Western Railway
+* SCC = Sodor China Clay Company
 
 == 主题曲
 
