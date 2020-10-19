@@ -35,11 +35,13 @@ Flynn, NWR, fire-petrol, US, Day of the Diesels
 Gordon, NWR 4, steam-tender-coal, , The Three Railway Engines / Thomas and Gordon
 Harold, , aircraft-helicopter-petrol, , Percy the Small Engine / Percy and Harold
 Hiro, 51, steam-tender-coal, Japan, Specials-2009-Hero of the Rails
+Isla, , aircraft-aeroplane-aviation fuel, Australia, Outback Thomas
 James, NWR 5, steam-tender-coal, , Thomas the Tank Engine / Thomas and Gordon
 Kevin, , road-mobile crane-petrol, , Specials-2009-Hero of the Rails
 Nia, EAR/NWR 18, steam-tank-coal, Kenya / England, Big World! Big Adventures!
 Percy, NWR 6, steam-saddle tank-coal, , Troublesome Engines / Trouble in the Shed
 Philip, NWR 68, diesel-electric-shunter, US, The Little Engine Who Raced Ahead
+Rajiv, , steam-locomotive-coal, India / England, The Great Race
 Rebecca, NWR 22, steam-coal, England, Confusion Without Delay
 Rosie, NWR 37, steam-tank-coal, England / US, Thomas and the Birthday Mail
 Samson, 15, steam-shddle tank-coal, England / Scotland, Marion and the Dinosaur
