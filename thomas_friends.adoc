@@ -25,6 +25,7 @@ Name, Number, Type, Country, First Apear
 Belle, NWR 6120, steam-tank-coal, , Day of the Diesels
 Ben (twin), SCC 2, steam-saddle tank-coal, England, Main Line Engines / Percy Takes the Plunge
 Bill (twin), SCC 1, steam-saddle tank-coal, England, Main Line Engines / Percy Takes the Plunge
+Connor, , steam-tender-coal, England / United States, King of the Railway
 Daisy, NWR D1, diesel-mechanical-railcar, , Branch Line Engines / Daisy
 Donald (twin), NWR 9 / BR 57646 / LMS 17646, steam-tender-coal, Scotland, The Twin Engines / Break Van
 Douglas (twin), NWR 10 / BR 57647 / LMS 17647, steam-tender-coal, Scotland, The Twin Engines / Break Van
@@ -47,6 +48,7 @@ Rosie, NWR 37, steam-tank-coal, England / US, Thomas and the Birthday Mail
 Samson, 15, steam-shddle tank-coal, England / Scotland, Marion and the Dinosaur
 Salty, NWR 2991, diesel-electric-shunter, , Salty's Secret
 Sidney, , diesel-electric-shunter, , Day of the Diesels
+Spencer, , steam-streamlined tender-coal, , Something Fishy
 Stephen, L&MR 1, steam-tender-coal, , King of the Railway
 Thomas, NWR 1 / LB&SCR 70, steam-tank-coal, England,
 Toby, NWR 7 / BR 68221 / LNER 8221 / LNER 7127 / GER 127, steam-tram-coal, , Toby the Tram Engine / Toby and the Stout Gentleman
