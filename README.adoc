@@ -1,5 +1,0 @@
-= Cartons
-
-给小朋友看的动画片的相关资料。
-
-* link:thomas_friends.adoc[Thomas and Friends]
